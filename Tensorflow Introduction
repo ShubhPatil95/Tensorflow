@@ -1,3 +1,4 @@
 TensorFlow is an open source library developed by the Google Brain Team.It’s an extremely versatile library,
 originally created for tasks that require heavy numerical computations. For this reason, TensorFlow was geared
 towards the problem of machine learning, and deep neural networks.
+<strong> Due to a C/C++ backend, TensorFlow is able to run faster than pure Python code.</strong>
